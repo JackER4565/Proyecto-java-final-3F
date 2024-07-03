@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SQLiteConnection",
+            "request": "launch",
+            "mainClass": "SQLiteConnection",
+            "projectName": "ppt_6c0a70bb"
+        },
+        {
+            "type": "java",
+            "name": "MainFrame",
+            "request": "launch",
+            "mainClass": "MainFrame",
+            "projectName": "ppt_6c0a70bb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - MainFrame",
+            "request": "launch",
+            "mainClass": "MainFrame",
+            "projectName": "YourProjectName",
+            "classPaths": [
+                "lib/sqlite-jdbc-3.46.0.0.jar",
+                "bin"
+            ]
+        }
+    ]
+}

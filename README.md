@@ -16,5 +16,5 @@ Tocar Reiniciar para volver a empezar de cero.
 
 ## Dependencias
 
-sqlite-jdbc-3.8.9.1.jar
-slf4j-api-1.7.36.jar
+- sqlite-jdbc-3.8.9.1.jar
+- slf4j-api-1.7.36.jar

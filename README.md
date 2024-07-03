@@ -1,18 +1,20 @@
-## Getting Started
+## Proyecto final de Java 3F
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+El clásico Piedra, Papel y Tijera.
+Para ejecutar correr ppt.jar, sino esta el código fuente disponible.
+
+Este juego guarda los resultados en la base de datos, si salis y volves a entrar vas a tener disponible el puntaje guardado.
+
+Tocar Reiniciar para volver a empezar de cero.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+- `src`: la carpeta que contiene los archivos .java
+- `lib`: la carpeta con las dependencias
+- `bin`: los compilados
+- `game.db`: la DB que si no esta se crea sola
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Dependencias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+sqlite-jdbc-3.8.9.1.jar
+slf4j-api-1.7.36.jar

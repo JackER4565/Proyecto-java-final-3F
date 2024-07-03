@@ -22,7 +22,7 @@
             "mainClass": "MainFrame",
             "projectName": "YourProjectName",
             "classPaths": [
-                "lib/sqlite-jdbc-3.46.0.0.jar",
+                "lib/sqlite-jdbc-3.8.9.1.jar",
                 "bin"
             ]
         }

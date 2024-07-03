@@ -7,7 +7,7 @@ Este juego guarda los resultados en la base de datos, si salis y volves a entrar
 
 Tocar Reiniciar para volver a empezar de cero.
 
-## Folder Structure
+## Carpetas y Archivos
 
 - `src`: la carpeta que contiene los archivos .java
 - `lib`: la carpeta con las dependencias
